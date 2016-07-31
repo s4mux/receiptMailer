@@ -1,0 +1,25 @@
+{
+    "smtpConfig": {
+        "host": "smtpauths.bluewin.ch",
+        "port": 465,
+        "secure": true,
+        "auth": {
+            "user": "samuel.remy",
+            "pass": "fgeWxQ9xhGEZXv2"
+        }
+    },
+    "from": "'Samuel Remy' <samuel.remy@bluewin.ch>",
+    "bcc": "samuel.remy@bluewin.ch",
+    "subject": "Test TSV",
+    "filename": "RechnungTrainingslager.pdf",
+    "logo": "tsvrechthalten.png",
+    "pdfOptions": {
+        "format": "A4",
+        "border": {
+            "top": "15mm",
+            "right": "10mm",
+            "bottom": "0",
+            "left": "10mm"
+        }
+    }
+}

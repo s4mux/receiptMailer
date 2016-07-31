@@ -1,2 +1,2 @@
 # receiptMailer
-send custom receipt with NodeMailer
+send custom receipts with NodeMailer
